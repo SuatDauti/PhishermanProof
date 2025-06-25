@@ -1,0 +1,31 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Log files
+*.log
+
+# Pip/Setuptools build files
+build/
+dist/
+*.egg-info/
